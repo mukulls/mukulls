@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulls&label=Profile%20views&color=0e75b6&style=flat" alt="mukulls" /> </p>
 
-- 🔭 I’m currently working on E-commerce application <src="https://github.com/mukulls/e-commerce-app.git">
+- 🔭 I’m currently working on E-commerce application (LINK:"https://github.com/mukulls/e-commerce-app.git")
 
 - 💬 Ask me about **Java, React, Development & Problem Solving**
 
