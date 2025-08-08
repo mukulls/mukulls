@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulls&label=Profile%20views&color=0e75b6&style=flat" alt="mukulls" /> </p>
 
-- 🔭 I’m currently working on E-commerce application["https://github.com/mukulls/e-commerce-app.git"]
+- 🔭 I’m currently working on myself
 
-- 💬 Ask me about **Java, React, Development & Problem Solving**
+- 💬 Ask me about **Java, Cloud, Computer Networks, Development & Problem Solving**
 
 - 📫 How to reach me **mukulshrma90@gmail.com**
 
